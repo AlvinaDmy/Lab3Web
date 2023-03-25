@@ -64,7 +64,7 @@ Buat file dengan nama tambah.php dan source code seperti:
 
 Output:
 
-![img 13](img/9.1.png)      ![img 14](img/9.2.png)
+![img 13](img/9.1.png)![img 14](img/9.2.png)
 
 ## 8. Mengubah Data (Update)
 
@@ -80,7 +80,7 @@ Buat file dengan nama ubah.php dan sorce code seperti:
 
 Output:
 
-![img 19](img/11.1.png)     ![img 20](img/11.2.png)
+![img 19](img/11.1.png)![img 20](img/11.2.png)
 
 ## 9. Menghapus Data (Delete)
 
